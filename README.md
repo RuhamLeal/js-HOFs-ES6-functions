@@ -13,10 +13,10 @@ One of the first projects I did starting with ES6 javascript, there are some [@t
 To acess the code, just need to clone the repository:
 
 ```
-git clone https://github.com/RuhamLeal/js-functions.git
+git clone https://github.com/RuhamLeal/js-hofs-es6-functions.git
 ```
 ```
-cd js-functions
+cd js-hofs-es6-functions
 ```
 
 
